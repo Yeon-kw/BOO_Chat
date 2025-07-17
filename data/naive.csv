@@ -1,0 +1,2 @@
+context_precision,context_recall,faithfulness,answer_relevancy,model
+0.4977142745363385,0.7016666666666667,0.7619889369889371,0.5864194070846345,naive

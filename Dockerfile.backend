@@ -1,0 +1,12 @@
+FROM python:3.11-slim
+WORKDIR /app
+
+# 1) 의존성 설치
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 2) 환경 설정 및 코드 복사
+COPY .env config.py Backend_test.py test_pipeline.py ./
+
+# 3) FastAPI 서버 기동
+CMD ["uvicorn", "Backend_test:app", "--host", "0.0.0.0", "--port", "8000"]
