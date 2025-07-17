@@ -9,7 +9,8 @@ This project was motivated by the following goals
 2. Provide information even when offline administrative services are unavailable, such as weekends and holidays.  
 3. Increase administrative efficiency by automating repetitive inquiry responses.
 
-### :timer_clock: 2. Development period
+### :timer_clock: 2. People and periods
+5 people (1 frontend, 1 backend, 3 RAG pipeline)  
 2025.04 ~ 2025.06 (About 2 months)
 
 ### ⭐ 3. Key Features
