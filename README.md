@@ -11,7 +11,7 @@ This project was motivated by the following goals
 
 ### :timer_clock: 2. People and periods
 5 people (1 frontend, 1 backend, 3 RAG pipeline)  
-2025.04 ~ 2025.06 (About 2 months)
+2025.04 ~ 2025.05 (About 2 months)
 
 ### ⭐ 3. Key Features
 1. main page: description of usage and menus
